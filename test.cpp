@@ -57,12 +57,6 @@ int main( int argc, char** argv )
     return 0;
 }
 
-/* 有关fin的参考教程：
- * https://zhuanlan.zhihu.com/p/395782246
- * https://zhuanlan.zhihu.com/p/352961501
- * https://zhuanlan.zhihu.com/p/352961501
- */
-
 /*运行结果（根据结果发现，对比image_id和图片名得知，图片的排列顺序确实正好是时间的先后顺序，所以可以用image_id代表time）
 1 0.38066 -0.0276326 0.906643 0.179815 2.42527 -0.362374 2.73882 1 IMG_20221128_184139.jpg
 2 0.391721 -0.0292101 0.901557 0.181377 2.44131 -0.33488 2.59628 1 IMG_20221128_184141.jpg
