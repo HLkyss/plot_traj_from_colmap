@@ -1,0 +1,2 @@
+# plot_traj_from_colmap
+可视化colmap得到的结果
